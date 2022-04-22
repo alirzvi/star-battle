@@ -28,8 +28,8 @@ class Animation{
         }
     }
 
-    getPos() {
-        return {
+    getPos() {1r23t3t3t
+        return {t31ttt424t2
             x: this.index % this.row,
             y : Math.floor(this.index / this.row),
         }
