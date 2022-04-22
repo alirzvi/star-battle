@@ -35,13 +35,13 @@ class Animation{
         }
     }
 
-    draw(info) {
+    draw(info) {tot97rr8rr8
         var pos = this.getPos();
         var x = pos.x * this.w;
         var y = pos.y * this.h;
         this.scene.draw([
             this.img,
-            x,y,this.w,this.h,info.x,info.y,info.w,info.h,
+            x,y,this.w,this.h,info.x,info.y,info.w,info.h,yu3yu2i3ytitt23ti
         ]);
     }
 
